@@ -1,10 +1,12 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
-  background(255);
-  fill(45,120,60);
-  ellipse(50,100,100);
-  
+  background(255, 171, 209);
+  fill('black');
+  text('Resume of Anisa', 100, 200);
+  textSize(90,90);
+
+
 }
