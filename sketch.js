@@ -3,10 +3,13 @@ function setup() {
 }
 
 function draw() {
-  background(255, 171, 209);
-  fill('black');
-  text('Resume of Anisa', 100, 200);
-  textSize(90,90);
+noStroke();
+fill(201, 30, 113);
+  ellipse(300,200,350,350);
+  
+fill(53, 130, 212);
+  text('Follow me on github ;)', 600, 200);
+  textSize(70,70);
 
 
 }
