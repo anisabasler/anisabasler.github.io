@@ -1,7 +1,21 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #ffbae0
 }
 canvas {
   display: block;
+}
+
+h1 {
+  color: #fa1493
+}
+
+h2{
+  color: #ff4daf
+
+}
+
+p{
+  color: #fc5bb4
 }
