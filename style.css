@@ -8,14 +8,21 @@ canvas {
 }
 
 h1 {
-  color: #fa1493
+  color: #fc03d3
 }
 
 h2{
-  color: #ff4daf
+  color: #f525d3
 
 }
 
 p{
-  color: #fc5bb4
+  color: #fa69e3
 }
+
+ul{
+  color: #fa52df
+}
+ h3{
+   color: #f73bd9
+ }
