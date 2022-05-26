@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #ffbae0
+  background-color: #ffbdf4
 }
 canvas {
   display: block;
@@ -12,17 +12,17 @@ h1 {
 }
 
 h2{
-  color: #f525d3
+  color: #fc21d8
 
 }
 
 p{
-  color: #fa69e3
+  color: #f553da
 }
 
 ul{
-  color: #fa52df
+  color: #ff4ae1
 }
  h3{
-   color: #f73bd9
+   color: #ff38de
  }
